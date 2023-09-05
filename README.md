@@ -1,4 +1,9 @@
 # C5-T33 API .NET Core (Models)
+## Links
+- [Ejercicio 1](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023/tree/main/ex01)
+- [Ejercicio 2](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023/tree/main/ex02)
+- [Ejercicio 3](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023/tree/main/ex03)
+- [Ejercicio 4](https://github.com/santiarroyave/sao-fe-gc-ejercicios-c5-T33-API-NET-Core-Models-08-2023/tree/main/ex04)
 
 <!-- ## Notas
 ### Propiedad virtual en Swagger
