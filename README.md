@@ -1,6 +1,6 @@
 # C5-T33 API .NET Core (Models)
 
-## Notas
+<!-- ## Notas
 ### Propiedad virtual en Swagger
 La propiedad virtual, pese a no generarse en BBDD si que aparece en Swagger y puede ser molesto.
 
@@ -46,4 +46,4 @@ namespace ex01.Models
   "codigo": 0,
   "nombre": "string"
 }
-```
+``` -->
